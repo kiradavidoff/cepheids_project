@@ -1,0 +1,19 @@
+# Data
+data/
+*.fits
+*.csv
+*.hdf5
+*.npy
+
+# Outputs
+outputs/
+figures/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+
